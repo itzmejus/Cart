@@ -1,0 +1,14 @@
+.filtered{
+    display: flex;
+    background-color: aqua;
+    align-items: center;
+    justify-content: center;
+    padding-left: 20px;
+    }
+.filtered :hover{
+    cursor: pointer;
+}
+.item{
+    display: flex;
+
+}
